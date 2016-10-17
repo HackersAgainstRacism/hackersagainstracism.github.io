@@ -1,0 +1,26 @@
+.header {
+  margin-top: 6rem;
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 3rem;
+}
+
+.footer {
+  margin-top: 1rem;
+  text-align: center;
+}
+
+.container {
+    max-width: 800px;
+}
+
+ul li {
+    list-style-position: outside;
+    margin-left: 2rem;
+}
+
+li {
+    margin-bottom: 0.5rem;
+}
