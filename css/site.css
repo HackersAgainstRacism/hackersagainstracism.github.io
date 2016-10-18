@@ -1,3 +1,26 @@
+.logo {
+    margin-bottom: 1rem;
+}
+
+/* Logo size for mobiles */
+.logo img {
+    width: 100px;
+}
+
+/* Logo size for larger displays */
+@media (min-width: 400px) {
+    .logo img {
+	width: 150px;
+    }
+}
+
+/* Logo size for even larger displays */
+@media (min-width: 550px) {
+    .logo img {
+	width: 200px;
+    }
+}
+
 .header {
   margin-top: 6rem;
   text-align: center;
