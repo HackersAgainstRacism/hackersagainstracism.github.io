@@ -10,10 +10,16 @@
 /* Logo size for larger displays */
 @media (min-width: 400px) {
     .logo img {
-	width: 200px;
+	width: 150px;
     }
 }
 
+/* Logo size for even larger displays */
+@media (min-width: 550px) {
+    .logo img {
+	width: 200px;
+    }
+}
 
 .header {
   margin-top: 6rem;
