@@ -10,14 +10,14 @@
 /* Logo size for larger displays */
 @media (min-width: 400px) {
     .logo img {
-	width: 300px;
+	width: 250px;
     }
 }
 
 /* Logo size for even larger displays */
 @media (min-width: 700px) {
     .logo img {
-	width: 350px;
+	width: 300px;
     }
 }
 
