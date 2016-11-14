@@ -23,6 +23,8 @@
 
 .request-assistance {
     margin-bottom: 3rem;
+    font-size: 1.5rem;
+    margin-bottom: 4rem;
 }
 
 .header {
@@ -50,4 +52,9 @@ ul li {
 
 li {
     margin-bottom: 0.5rem;
+}
+
+.questions {
+    text-align: center;
+    font-size: 2rem;
 }
